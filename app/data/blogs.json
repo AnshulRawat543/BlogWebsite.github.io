@@ -1,0 +1,101 @@
+
+[
+    {
+      "title": "Getting Started with Next.js",
+      "description": "Learn the basics of building web applications with Next.js.",
+      "link": "https://example.com/nextjs-guide",
+      "image" :"/pen-4337521_1280.jpg" 
+      
+    },
+    {
+      "title": "Introduction to React Hooks",
+      "description": "Explore the power of React Hooks for state management in your applications.",
+      "link": "https://example.com/react-hooks-intro",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "Styling in Material-UI",
+      "description": "A guide on styling React components using Material-UI.",
+      "link": "https://example.com/material-ui-styling",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "State Management with Redux",
+      "description": "Deep dive into managing application state with Redux in React.",
+      "link": "https://example.com/redux-state-management",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "Responsive Web Design Techniques",
+      "description": "Learn how to create responsive web designs that work on various devices.",
+      "link": "https://example.com/responsive-web-design",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "GraphQL Basics for Frontend Developers",
+      "description": "An introduction to GraphQL and its usage in frontend development.",
+      "link": "https://example.com/graphql-basics",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "Server-Side Rendering with Next.js",
+      "description": "Explore the benefits of server-side rendering in Next.js applications.",
+      "link": "https://example.com/ssr-nextjs",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "Authentication in React Applications",
+      "description": "Implement user authentication in React applications using popular methods.",
+      "link": "https://example.com/react-authentication",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "JavaScript ES6+ Features You Should Know",
+      "description": "Discover powerful features introduced in ECMAScript 2015 and beyond.",
+      "link": "https://example.com/es6-features",
+      "image" :"/pen-4337521_1280.jpg" 
+    },
+    {
+      "title": "Optimizing Web Performance with Lighthouse",
+      "description": "Tips and tricks to optimize the performance of your web applications using Lighthouse.",
+      "link": "https://example.com/web-performance-lighthouse",
+      "image" :"/pen-4337521_1280.jpg" 
+    }
+  ]
+  
